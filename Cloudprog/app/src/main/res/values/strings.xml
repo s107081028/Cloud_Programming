@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudProg</string>
+    <string name="bucket_name">cloudprog-hw3-110501707</string>
+    <string name="queue_name">cloudprog-hw3-110501707</string>
+</resources>
